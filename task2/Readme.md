@@ -13,7 +13,7 @@
 
 # error
 
-![Can't retrieve site](https://github.com/tknishh/assignment-zintellix/blob/master/task2)
+![Can't retrieve site](https://github.com/tknishh/assignment-zintellix/blob/master/task2/Can't%20retrieve%20site..png)
 
 
 # Note
