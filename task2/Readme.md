@@ -2,7 +2,7 @@
 
 - **Instructions**: Write a Python script using the BeautifulSoup library to scrape information from a sample website. The goal is to extract a list of products along with their prices and ratings. You should then organize and print this information in a structured manner.
 
-- **Problems**: The provided url of amazon wasn't working, and it returned a 503 error. I used a different url of flipkart to complete the task.
+- **Problems**: The provided url of amazon wasn't working, and it returned a 503 error. I used a different url of flipkart to complete the task. The same is the reason I got delayed by a day to submit the solution to assignment.
 
 # Files
 
